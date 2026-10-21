@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mouse Inalámbrico",
+        "Categoria": "Perifericos",
+        "Precio": 499.00,
+        "descripción": "Mouse inalámbrico con alta ´reción",
+        "stock": 25
+    
+    },
+    {
+        "id": 2,
+        "nombre": "Teclado Mecánico",
+        "Categoria": "Perifericos",
+        "Precio": 499.00,
+        "descripción": "Teclado mecánico con reto luminación RGB y switches de alta presión",
+        "stock": 12
+    
+    }
+]
